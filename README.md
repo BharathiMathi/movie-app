@@ -99,9 +99,9 @@ The application has been thoroughly tested using Jest and React Testing Library 
 
 To run the project locally, follow these steps:
 
-1. **Extract the Files**: Extract the files from the compressed folder. You can usually do this by right-clicking on the compressed folder and selecting an option like "Extract All" or "Uncompress". The exact wording will depend on your operating system. After extraction, you will have a regular folder with the same name as the compressed folder. This folder will contain the project files
+1. **Clone the Repository**: Clone the repository to your local machine using the command `git clone https://github.com/BharathiMathi/movie-app.git`.
 
-2. **Navigate to the Project Directory**: Use the command `cd [project_directory]` to navigate into the project directory in the terminal.
+2. **Navigate to the Project Directory**: Use the command `cd movie-app` to navigate into the project directory in the terminal.
 
 3. **Install Dependencies**: Run the command `npm install` to install all the necessary project dependencies.
 
